@@ -7,8 +7,7 @@ name = "lokmanya-tilak-college-api"
 
 [[kv_namespaces]]
 binding = "COLLEGE_DB"
-id = "your-kv-namespace-id"
-preview_id = "your-preview-kv-namespace-id"
+id = "773d02774f2248079037ac201e67cf49"
 
 [vars]
 ENVIRONMENT = "production"
