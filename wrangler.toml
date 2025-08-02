@@ -1,4 +1,4 @@
-name = "lokmanya-tilak-college-api"
+name = "ltcollege"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
